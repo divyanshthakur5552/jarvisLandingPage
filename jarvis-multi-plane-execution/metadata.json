@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Multi-Plane Execution",
+  "description": "Interactive n8n-style visual workflow canvas and live execution trace viewer for JARVIS multi-plane commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
